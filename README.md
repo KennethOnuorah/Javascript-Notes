@@ -26,7 +26,7 @@ Languages used:
     1. Bold, italic, and underline text styling
     2. Color changing
     3. Spell checking
-    4. Unlimited character limit
+    4. Unlimited characters
 * Times since notes were posted
 * Searching
 * Local storage saving
