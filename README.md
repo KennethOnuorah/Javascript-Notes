@@ -21,16 +21,15 @@ Languages used:
 
 ## Features 📦️
 
-* **Note creation/deletion**
+* Note creation/deletion
 * **Editing**:
     1. Bold, italic, and underline text styling
     2. Color changing
-    3. Unlimited character limit
-* **Searching**
-* **Local data storage**
-* **Smooth animations**
+    3. Spell checking
+    4. Unlimited character limit
+* Times since notes were posted
+* Searching
+* Local storage saving
+* Smooth animations
 
 ## Preview 👁️
-
-## Contributing 🤝
-Any pull requests are not necessary, but gladly appreciated.
