@@ -8,27 +8,29 @@
 
 ------
 
-## About the project
+## About the project 🔎
 
-For full documentation, visit [tailwindcss.com](https://tailwindcss.com/).
+A web application that makes managing your errands and tasks a whole lot easier. Create compact and customizable notes to suit your everyday needs.
 
 Languages used:
 * HTML
 * CSS
 * Javascript
 
-## Features
+**Project development**: 8/28/2022 - 9/16/2022.
 
-For help, discussion about best practices, or any other conversation that would benefit from being searchable:
+## Features 📦️
 
-[Discuss Tailwind CSS on GitHub](https://github.com/tailwindcss/tailwindcss/discussions)
+* **Note creation/deletion**
+* **Editing**:
+    1. Bold, italic, and underline text styling
+    2. Color changing
+    3. Unlimited character limit
+* **Searching**
+* **Local data storage**
+* **Smooth animations**
 
-For casual chit-chat with others using the framework:
+## Preview 👁️
 
-[Join the Tailwind CSS Discord Server](https://discord.gg/7NF8GNe)
-
-## Preview
-
-## Contributing
-
-If you're interested in contributing to Tailwind CSS, please read our [contributing docs](https://github.com/tailwindcss/tailwindcss/blob/master/.github/CONTRIBUTING.md) **before submitting a pull request**.
+## Contributing 🤝
+Any pull requests are not necessary, but gladly appreciated.
