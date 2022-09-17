@@ -33,3 +33,7 @@ Languages used:
 * Smooth animations
 
 ## Preview 👁️
+------
+<p align="center">
+  <img src="https://github.com/KennethOnuorah/Javascript-Notes/blob/main/notes_app_preview.gif" width="324" height="219">
+</p>
