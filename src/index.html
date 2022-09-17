@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <title>Notes</title>
+        <meta charset="UTF-8" />
+        <link href="style.css" rel="stylesheet">
+        <link rel="icon" href="images/app_logo.png">
+    </head>
+    <body>
+        <noscript>You need to enable Javascript to run this app.</noscript>
+        <div class="main_screen">
+            <div class="top_menu">
+                <h1>All notes</h1>
+                <h3 id="note_counter">0 notes</h3>
+                <button type="button" class="add_note_button" id="add_note_button">+</button>
+                <button type="button" class="edit_note_button" id="edit_note_button"><img src="images/edit_icon.png" width="20px" height="20px" style="opacity: 0.35;" id="edit_note_button_icon"></button>
+                <button type="button" class="back_button" id="back_button"><img src="images/back_icon.png" width="20px" height="20px" style="opacity: 0.35;" id="back_button_icon"></button>
+                <button type="button" class="delete_note_button"><img src="images/trash_icon1.png" width="20px" height="20px" style="opacity: 0.35;" id="delete_note_button_icon"></button>
+                <input type="search" placeholder="Search notes..." class="search_bar" value="">
+            </div>
+            <div class="note_display">
+                <div class="note_display_outline">
+                    <h3 id="nothing_prompt" style="transform: translate(2%, 5%); position: absolute;"></h3>
+                </div>
+            </div>
+        </div>
+    </body>
+    <script type="module" src="script.js"></script>
+</html>
