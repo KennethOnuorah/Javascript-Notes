@@ -10,7 +10,7 @@
 
 ## About the project 🔎
 
-A web application that makes managing your errands and tasks a whole lot easier. Create compact and customizable notes to suit your everyday needs.
+A web application that makes managing your errands and tasks a whole lot easier. Create compact and customizable notes to help keep track of your everyday needs.
 
 Languages used:
 * HTML
