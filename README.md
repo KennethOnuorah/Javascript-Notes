@@ -17,6 +17,8 @@ Languages used:
 * CSS
 * Javascript
 
+❗❗❗ This application only works for chromium browsers.
+
 **Project development**: 8/28/2022 - 9/16/2022.
 
 ## Features 📦️
